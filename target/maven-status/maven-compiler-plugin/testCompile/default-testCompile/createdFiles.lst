@@ -1,0 +1,8 @@
+mobiletesting\LaunchApp.class
+or\MenOrderpage.class
+config\TestSetUp.class
+resuableComponents\BussinessComponents.class
+resuableComponents\TechnicalComponents.class
+api\ApiTesting.class
+api\TestData.class
+cskvtestcase\Homepage.class
